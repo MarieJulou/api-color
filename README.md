@@ -1,5 +1,5 @@
 # api-color
-This api takes an image and show the color ratio and this is a tutorial on how to implement it
+This api takes an image and show the color ratio (in .json)and this is a tutorial on how to implement it
 
 What's in this git
 The different files are the code I made for this api but you won't need to copy and compile it.

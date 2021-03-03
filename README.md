@@ -25,4 +25,4 @@ and at the end of the url in your browser you copy the following
 
 > you can change the url of the image if you want
 
-And voila you have the color ration of your picture
+And voila you have the color ratio of your picture :whale2:
